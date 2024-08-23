@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.todo-item {
+  display: flex;
+  color: black;
+}
+p{
+  padding-right: 10px;
+  font-weight: solid;
+}
+
+button{
+  background-color: orange;
+}
